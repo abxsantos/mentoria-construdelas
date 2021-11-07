@@ -3,7 +3,7 @@ Classes são utilizadas para criar estruturas definidas.
 
 Estas, definem funções chamadas de métodos.
 
-Os mtodos identificam os comportamentos e ações que um
+Os métodos identificam os comportamentos e ações que um
     objeto criado a partir da classe pode executar com
     seus dados.
 
@@ -13,11 +13,11 @@ Enquanto a classe é uma base, uma instância é um objeto que é
     construído a partir de uma classe e contém dados reais.
 """
 
-# Definindo classes
 import random
 from typing import List
 
 
+# Definindo classes
 class Carta:
 
     def __init__(self, naipe="♦", valor="10"):
@@ -40,7 +40,6 @@ class Carta:
 # Instanciando um objeto ``Carta`` simulando um dois de ouros.
 dois_de_paus = Carta(naipe="♣", valor="2")
 print()
-
 
 dois_de_ouros = Carta(naipe="♦", valor="2")
 
@@ -122,6 +121,7 @@ class Baralho:
             segunda_metade = self.cartas[:meio]
             return Baralho(cartas=primeira_metade), Baralho(cartas=segunda_metade)
 
+
 cinco_de_espadas = Carta(naipe="♠", valor="5")
 dois_de_ouros = Carta(naipe="♦", valor="2")
 dez_de_paus = Carta(naipe="♣", valor="10")
@@ -137,11 +137,13 @@ carta_de_baixo = baralho.tirar_de_baixo()
 print(f"A carta de baixo é <Carta valor: {carta_de_baixo.valor}, naipe: {carta_de_baixo.naipe}>")
 print(f"O baralho agora tem {baralho.numero_de_cartas} cartas")
 
-
-
 carta_do_topo = baralho.tirar_do_topo()
 print(f"A carta do topo é <Carta valor: {carta_do_topo.valor}, naipe: {carta_do_topo.naipe}>")
 print(f"O baralho agora tem {baralho.numero_de_cartas} cartas")
+
+"""
+Quando trabalhamos com classes, podemos utilizar a herança evitando assim duplicação de código.
+"""
 
 
 class FileParser:
@@ -152,12 +154,14 @@ class FileParser:
         print(f"Deve ler o arquivo do caminho: {self.file_path}")
 
 
+# No caso o CSVParser irá herdar os métodos ``read_file`` do FileParser
 class CSVParser(FileParser):
 
     def clean_dot_and_commas(self):
         print(f"Deve remover os ; do arquivo: {self.file_path}")
 
 
+# No caso o JSONParser irá herdar os métodos ``read_file`` do FileParser
 class JSONParser(FileParser):
 
     def replace_quotes(self):
