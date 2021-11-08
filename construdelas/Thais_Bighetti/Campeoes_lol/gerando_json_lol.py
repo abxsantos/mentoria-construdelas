@@ -6,8 +6,7 @@ do jogo League Of Legends e separei as seguintes informações: Nome do campeão
 Vida, Armadura, Resistência Mágica e Velocidade de Movimento. """
 
 r = requests.get('http://ddragon.leagueoflegends.com/cdn/11.22.1/data/en_US/champion.json')
-lol = r.json()
-data = lol['data']
+data = r.json()['data']
 
 # Criei listas para guardar as informações que eu queria.
 champ = []
