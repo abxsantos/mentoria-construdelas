@@ -55,7 +55,7 @@ while opcao != 4:
 
     elif opcao == 2:
         dados = pd.read_excel(pastaUsuario + '\\resumo_dos_jogos.xlsx')
-        display(dados)
+        print(dados)
 
     elif opcao == 3:
         # criar a integração com o outlook
