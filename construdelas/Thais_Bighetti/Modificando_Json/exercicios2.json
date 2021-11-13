@@ -1,0 +1,6133 @@
+{
+    "Pessoas": [
+        {
+            "Nome Completo": "MillenaFinan\u00e7as ",
+            "G\u00eanero": "F",
+            "Altura": "Baixa",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                18,
+                25,
+                6,
+                15,
+                29,
+                16,
+                22,
+                15
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 18.25
+        },
+        {
+            "Nome Completo": "Michel Niatierg\u00e1li",
+            "G\u00eanero": "M",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                5,
+                16,
+                12,
+                6,
+                29,
+                6,
+                21,
+                11
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 13.25
+        },
+        {
+            "Nome Completo": "Mar\u00edliaTorres",
+            "G\u00eanero": "F",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                20,
+                0,
+                18,
+                3,
+                17,
+                11,
+                16,
+                27
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 14.0
+        },
+        {
+            "Nome Completo": "Patr\u00edciaFinan\u00e7as ",
+            "G\u00eanero": "F",
+            "Altura": "Alta",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                16,
+                5,
+                3,
+                5,
+                25,
+                29,
+                24,
+                14
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 15.125
+        },
+        {
+            "Nome Completo": "B\u00e1rbaraFinan\u00e7as ",
+            "G\u00eanero": "F",
+            "Altura": "Alta",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                11,
+                5,
+                17,
+                17,
+                29,
+                20,
+                14,
+                27
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 17.5
+        },
+        {
+            "Nome Completo": "Victor Barroso",
+            "G\u00eanero": "M",
+            "Altura": "Baixa",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                26,
+                8,
+                17,
+                20,
+                2,
+                16,
+                16,
+                12
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 14.625
+        },
+        {
+            "Nome Completo": "AmandaBarroso",
+            "G\u00eanero": "F",
+            "Altura": "Baixa",
+            "Maior Pontua\u00e7\u00e3o": true,
+            "Pontua\u00e7\u00e3o": [
+                8,
+                21,
+                17,
+                3,
+                30,
+                12,
+                27,
+                12
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 16.25
+        },
+        {
+            "Nome Completo": "Victor Torres",
+            "G\u00eanero": "M",
+            "Altura": "Baixa",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                17,
+                22,
+                6,
+                26,
+                16,
+                5,
+                4,
+                22
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 14.75
+        },
+        {
+            "Nome Completo": "Joaquim MonteNegro",
+            "G\u00eanero": "M",
+            "Altura": "Baixa",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                4,
+                17,
+                11,
+                25,
+                0,
+                19,
+                5,
+                23
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 13.0
+        },
+        {
+            "Nome Completo": "DhiulyFalabella",
+            "G\u00eanero": "F",
+            "Altura": "Alta",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                2,
+                2,
+                16,
+                8,
+                2,
+                29,
+                25,
+                3
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 10.875
+        },
+        {
+            "Nome Completo": "MariaMonteNegro",
+            "G\u00eanero": "F",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": true,
+            "Pontua\u00e7\u00e3o": [
+                8,
+                30,
+                2,
+                21,
+                26,
+                14,
+                0,
+                5
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 13.25
+        },
+        {
+            "Nome Completo": "Victor DiCaprio",
+            "G\u00eanero": "M",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                21,
+                27,
+                24,
+                16,
+                11,
+                6,
+                18,
+                0
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 15.375
+        },
+        {
+            "Nome Completo": "Joaquim Barroso",
+            "G\u00eanero": "M",
+            "Altura": "Baixa",
+            "Maior Pontua\u00e7\u00e3o": true,
+            "Pontua\u00e7\u00e3o": [
+                5,
+                20,
+                9,
+                30,
+                0,
+                17,
+                27,
+                17
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 15.625
+        },
+        {
+            "Nome Completo": "Felipe Gianechinne",
+            "G\u00eanero": "M",
+            "Altura": "Alta",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                15,
+                10,
+                0,
+                15,
+                7,
+                0,
+                6,
+                21
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 9.25
+        },
+        {
+            "Nome Completo": "Manoel DiCaprio",
+            "G\u00eanero": "M",
+            "Altura": "Baixa",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                27,
+                7,
+                26,
+                29,
+                25,
+                20,
+                14,
+                20
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 21.0
+        },
+        {
+            "Nome Completo": "GiuliaGianechinne",
+            "G\u00eanero": "F",
+            "Altura": "Baixa",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                29,
+                16,
+                16,
+                11,
+                21,
+                15,
+                3,
+                19
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 16.25
+        },
+        {
+            "Nome Completo": "Pedro Torres",
+            "G\u00eanero": "M",
+            "Altura": "Alta",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                7,
+                18,
+                17,
+                9,
+                4,
+                22,
+                11,
+                22
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 13.75
+        },
+        {
+            "Nome Completo": "Ronaldo Torres",
+            "G\u00eanero": "M",
+            "Altura": "Alta",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                26,
+                14,
+                11,
+                20,
+                4,
+                7,
+                28,
+                21
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 16.375
+        },
+        {
+            "Nome Completo": "Joaquim Chuasn\u00e9guer",
+            "G\u00eanero": "M",
+            "Altura": "Alta",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                6,
+                28,
+                7,
+                29,
+                19,
+                10,
+                26,
+                21
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 18.25
+        },
+        {
+            "Nome Completo": "Ma\u00edraNiatierg\u00e1li",
+            "G\u00eanero": "F",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                5,
+                15,
+                9,
+                19,
+                23,
+                24,
+                29,
+                24
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 18.5
+        },
+        {
+            "Nome Completo": "Pedro Gianechinne",
+            "G\u00eanero": "M",
+            "Altura": "Alta",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                18,
+                21,
+                2,
+                25,
+                5,
+                21,
+                22,
+                11
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 15.625
+        },
+        {
+            "Nome Completo": "Teresa Finan\u00e7as ",
+            "G\u00eanero": "F",
+            "Altura": "Baixa",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                7,
+                3,
+                10,
+                23,
+                21,
+                1,
+                29,
+                2
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 12.0
+        },
+        {
+            "Nome Completo": "Patr\u00edciaDiCaprio",
+            "G\u00eanero": "F",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                28,
+                17,
+                10,
+                9,
+                19,
+                25,
+                8,
+                12
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 16.0
+        },
+        {
+            "Nome Completo": "Patr\u00edciaDiCaprio",
+            "G\u00eanero": "F",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                9,
+                8,
+                15,
+                28,
+                28,
+                26,
+                3,
+                1
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 14.75
+        },
+        {
+            "Nome Completo": "Arnaldo Torres",
+            "G\u00eanero": "M",
+            "Altura": "Alta",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                7,
+                8,
+                18,
+                25,
+                13,
+                28,
+                7,
+                5
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 13.875
+        },
+        {
+            "Nome Completo": "Guilherme Barroso",
+            "G\u00eanero": "M",
+            "Altura": "Baixa",
+            "Maior Pontua\u00e7\u00e3o": true,
+            "Pontua\u00e7\u00e3o": [
+                30,
+                6,
+                4,
+                26,
+                5,
+                22,
+                7,
+                13
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 14.125
+        },
+        {
+            "Nome Completo": "Manoel Barroso",
+            "G\u00eanero": "M",
+            "Altura": "Alta",
+            "Maior Pontua\u00e7\u00e3o": true,
+            "Pontua\u00e7\u00e3o": [
+                6,
+                21,
+                6,
+                21,
+                13,
+                30,
+                5,
+                12
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 14.25
+        },
+        {
+            "Nome Completo": "Joaquim Falabella",
+            "G\u00eanero": "M",
+            "Altura": "Alta",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                27,
+                4,
+                2,
+                4,
+                23,
+                28,
+                23,
+                29
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 17.5
+        },
+        {
+            "Nome Completo": "Ronaldo Finan\u00e7as ",
+            "G\u00eanero": "M",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": true,
+            "Pontua\u00e7\u00e3o": [
+                21,
+                20,
+                23,
+                26,
+                9,
+                15,
+                1,
+                30
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 18.125
+        },
+        {
+            "Nome Completo": "Manoel Falabella",
+            "G\u00eanero": "M",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": true,
+            "Pontua\u00e7\u00e3o": [
+                30,
+                10,
+                20,
+                16,
+                0,
+                1,
+                9,
+                25
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 13.875
+        },
+        {
+            "Nome Completo": "Ma\u00edraFalabella",
+            "G\u00eanero": "F",
+            "Altura": "Alta",
+            "Maior Pontua\u00e7\u00e3o": true,
+            "Pontua\u00e7\u00e3o": [
+                16,
+                30,
+                18,
+                16,
+                9,
+                14,
+                7,
+                4
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 14.25
+        },
+        {
+            "Nome Completo": "MillenaNiatierg\u00e1li",
+            "G\u00eanero": "F",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                1,
+                14,
+                24,
+                3,
+                24,
+                29,
+                23,
+                25
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 17.875
+        },
+        {
+            "Nome Completo": "AmandaBarroso",
+            "G\u00eanero": "F",
+            "Altura": "Alta",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                4,
+                7,
+                8,
+                18,
+                6,
+                13,
+                15,
+                26
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 12.125
+        },
+        {
+            "Nome Completo": "B\u00e1rbaraMonteNegro",
+            "G\u00eanero": "F",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                29,
+                18,
+                24,
+                0,
+                13,
+                22,
+                18,
+                3
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 15.875
+        },
+        {
+            "Nome Completo": "Patr\u00edciaGianechinne",
+            "G\u00eanero": "F",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                29,
+                10,
+                0,
+                9,
+                2,
+                2,
+                5,
+                4
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 7.625
+        },
+        {
+            "Nome Completo": "Teresa Gianechinne",
+            "G\u00eanero": "F",
+            "Altura": "Alta",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                7,
+                21,
+                3,
+                21,
+                7,
+                4,
+                5,
+                12
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 10.0
+        },
+        {
+            "Nome Completo": "Mar\u00edliaTorres",
+            "G\u00eanero": "F",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                9,
+                22,
+                18,
+                8,
+                24,
+                8,
+                16,
+                12
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 14.625
+        },
+        {
+            "Nome Completo": "Felipe Falabella",
+            "G\u00eanero": "M",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                9,
+                20,
+                4,
+                10,
+                13,
+                17,
+                16,
+                26
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 14.375
+        },
+        {
+            "Nome Completo": "Teresa DiCaprio",
+            "G\u00eanero": "F",
+            "Altura": "Alta",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                11,
+                12,
+                14,
+                9,
+                8,
+                21,
+                16,
+                15
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 13.25
+        },
+        {
+            "Nome Completo": "AmandaGianechinne",
+            "G\u00eanero": "F",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                21,
+                3,
+                16,
+                26,
+                8,
+                25,
+                4,
+                19
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 15.25
+        },
+        {
+            "Nome Completo": "Victor DiCaprio",
+            "G\u00eanero": "M",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": true,
+            "Pontua\u00e7\u00e3o": [
+                30,
+                1,
+                0,
+                27,
+                5,
+                0,
+                19,
+                0
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 10.25
+        },
+        {
+            "Nome Completo": "Pedro Barroso",
+            "G\u00eanero": "M",
+            "Altura": "Baixa",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                19,
+                18,
+                16,
+                12,
+                7,
+                2,
+                6,
+                13
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 11.625
+        },
+        {
+            "Nome Completo": "Ant\u00f4nio Gianechinne",
+            "G\u00eanero": "M",
+            "Altura": "Baixa",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                12,
+                11,
+                2,
+                16,
+                19,
+                27,
+                28,
+                8
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 15.375
+        },
+        {
+            "Nome Completo": "Mar\u00edliaDiCaprio",
+            "G\u00eanero": "F",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                15,
+                16,
+                29,
+                0,
+                0,
+                9,
+                22,
+                1
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 11.5
+        },
+        {
+            "Nome Completo": "Arnaldo Falabella",
+            "G\u00eanero": "M",
+            "Altura": "Alta",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                24,
+                15,
+                9,
+                8,
+                11,
+                13,
+                9,
+                24
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 14.125
+        },
+        {
+            "Nome Completo": "AmandaDiCaprio",
+            "G\u00eanero": "F",
+            "Altura": "Alta",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                29,
+                21,
+                25,
+                4,
+                5,
+                16,
+                9,
+                26
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 16.875
+        },
+        {
+            "Nome Completo": "Joaquim Finan\u00e7as ",
+            "G\u00eanero": "M",
+            "Altura": "Baixa",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                4,
+                26,
+                13,
+                20,
+                21,
+                18,
+                2,
+                19
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 15.375
+        },
+        {
+            "Nome Completo": "MillenaFinan\u00e7as ",
+            "G\u00eanero": "F",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                29,
+                20,
+                0,
+                0,
+                7,
+                22,
+                25,
+                8
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 13.875
+        },
+        {
+            "Nome Completo": "Guilherme Falabella",
+            "G\u00eanero": "M",
+            "Altura": "Baixa",
+            "Maior Pontua\u00e7\u00e3o": true,
+            "Pontua\u00e7\u00e3o": [
+                7,
+                30,
+                3,
+                21,
+                13,
+                23,
+                22,
+                3
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 15.25
+        },
+        {
+            "Nome Completo": "Guilherme Finan\u00e7as ",
+            "G\u00eanero": "M",
+            "Altura": "Baixa",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                24,
+                12,
+                29,
+                4,
+                25,
+                23,
+                27,
+                2
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 18.25
+        },
+        {
+            "Nome Completo": "Cec\u00edliaTorres",
+            "G\u00eanero": "F",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                20,
+                29,
+                13,
+                5,
+                19,
+                9,
+                11,
+                10
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 14.5
+        },
+        {
+            "Nome Completo": "Ant\u00f4nio Falabella",
+            "G\u00eanero": "M",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                15,
+                17,
+                9,
+                28,
+                3,
+                13,
+                3,
+                8
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 12.0
+        },
+        {
+            "Nome Completo": "Cec\u00edliaChuasn\u00e9guer",
+            "G\u00eanero": "F",
+            "Altura": "Alta",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                9,
+                20,
+                7,
+                17,
+                14,
+                2,
+                15,
+                24
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 13.5
+        },
+        {
+            "Nome Completo": "Felipe DiCaprio",
+            "G\u00eanero": "M",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                19,
+                16,
+                6,
+                1,
+                11,
+                25,
+                1,
+                21
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 12.5
+        },
+        {
+            "Nome Completo": "Michel Finan\u00e7as ",
+            "G\u00eanero": "M",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                29,
+                8,
+                22,
+                0,
+                23,
+                20,
+                24,
+                24
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 18.75
+        },
+        {
+            "Nome Completo": "Teresa DiCaprio",
+            "G\u00eanero": "F",
+            "Altura": "Baixa",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                2,
+                2,
+                21,
+                17,
+                14,
+                21,
+                23,
+                0
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 12.5
+        },
+        {
+            "Nome Completo": "Victor Torres",
+            "G\u00eanero": "M",
+            "Altura": "Baixa",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                16,
+                19,
+                25,
+                28,
+                8,
+                11,
+                27,
+                4
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 17.25
+        },
+        {
+            "Nome Completo": "C\u00edcero Gianechinne",
+            "G\u00eanero": "M",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                20,
+                26,
+                1,
+                8,
+                15,
+                19,
+                12,
+                0
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 12.625
+        },
+        {
+            "Nome Completo": "Guilherme Torres",
+            "G\u00eanero": "M",
+            "Altura": "Alta",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                6,
+                5,
+                17,
+                16,
+                8,
+                10,
+                13,
+                15
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 11.25
+        },
+        {
+            "Nome Completo": "Ma\u00edraFalabella",
+            "G\u00eanero": "F",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                19,
+                8,
+                21,
+                8,
+                15,
+                13,
+                10,
+                16
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 13.75
+        },
+        {
+            "Nome Completo": "Arnaldo Chuasn\u00e9guer",
+            "G\u00eanero": "M",
+            "Altura": "Alta",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                16,
+                29,
+                7,
+                6,
+                28,
+                19,
+                27,
+                24
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 19.5
+        },
+        {
+            "Nome Completo": "Arnaldo Torres",
+            "G\u00eanero": "M",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                29,
+                27,
+                16,
+                15,
+                10,
+                29,
+                22,
+                25
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 21.625
+        },
+        {
+            "Nome Completo": "DhiulyChuasn\u00e9guer",
+            "G\u00eanero": "F",
+            "Altura": "Alta",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                0,
+                5,
+                2,
+                8,
+                5,
+                28,
+                19,
+                1
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 8.5
+        },
+        {
+            "Nome Completo": "GiuliaBarroso",
+            "G\u00eanero": "F",
+            "Altura": "Alta",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                18,
+                25,
+                26,
+                2,
+                15,
+                20,
+                3,
+                19
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 16.0
+        },
+        {
+            "Nome Completo": "GiuliaNiatierg\u00e1li",
+            "G\u00eanero": "F",
+            "Altura": "Alta",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                22,
+                13,
+                28,
+                27,
+                23,
+                7,
+                10,
+                10
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 17.5
+        },
+        {
+            "Nome Completo": "Pedro Barroso",
+            "G\u00eanero": "M",
+            "Altura": "Alta",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                12,
+                7,
+                18,
+                5,
+                2,
+                16,
+                23,
+                16
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 12.375
+        },
+        {
+            "Nome Completo": "B\u00e1rbaraMonteNegro",
+            "G\u00eanero": "F",
+            "Altura": "Baixa",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                29,
+                25,
+                22,
+                5,
+                0,
+                26,
+                4,
+                29
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 17.5
+        },
+        {
+            "Nome Completo": "C\u00edcero DiCaprio",
+            "G\u00eanero": "M",
+            "Altura": "Alta",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                13,
+                21,
+                4,
+                1,
+                14,
+                19,
+                3,
+                19
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 11.75
+        },
+        {
+            "Nome Completo": "Ma\u00edraChuasn\u00e9guer",
+            "G\u00eanero": "F",
+            "Altura": "Alta",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                13,
+                8,
+                12,
+                23,
+                15,
+                6,
+                8,
+                17
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 12.75
+        },
+        {
+            "Nome Completo": "Ronaldo Niatierg\u00e1li",
+            "G\u00eanero": "M",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": true,
+            "Pontua\u00e7\u00e3o": [
+                23,
+                18,
+                5,
+                30,
+                28,
+                3,
+                11,
+                18
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 17.0
+        },
+        {
+            "Nome Completo": "Patr\u00edciaDiCaprio",
+            "G\u00eanero": "F",
+            "Altura": "Alta",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                6,
+                7,
+                1,
+                4,
+                0,
+                3,
+                15,
+                12
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 6.0
+        },
+        {
+            "Nome Completo": "Ronaldo MonteNegro",
+            "G\u00eanero": "M",
+            "Altura": "Alta",
+            "Maior Pontua\u00e7\u00e3o": true,
+            "Pontua\u00e7\u00e3o": [
+                22,
+                10,
+                17,
+                1,
+                8,
+                30,
+                22,
+                22
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 16.5
+        },
+        {
+            "Nome Completo": "DhiulyGianechinne",
+            "G\u00eanero": "F",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                0,
+                19,
+                19,
+                8,
+                6,
+                0,
+                19,
+                11
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 10.25
+        },
+        {
+            "Nome Completo": "Manoel MonteNegro",
+            "G\u00eanero": "M",
+            "Altura": "Alta",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                14,
+                18,
+                2,
+                5,
+                23,
+                2,
+                26,
+                28
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 14.75
+        },
+        {
+            "Nome Completo": "Manoel Niatierg\u00e1li",
+            "G\u00eanero": "M",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": true,
+            "Pontua\u00e7\u00e3o": [
+                30,
+                16,
+                29,
+                2,
+                15,
+                5,
+                28,
+                30
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 19.375
+        },
+        {
+            "Nome Completo": "Arnaldo Gianechinne",
+            "G\u00eanero": "M",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": true,
+            "Pontua\u00e7\u00e3o": [
+                30,
+                17,
+                4,
+                4,
+                0,
+                16,
+                24,
+                29
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 15.5
+        },
+        {
+            "Nome Completo": "DhiulyTorres",
+            "G\u00eanero": "F",
+            "Altura": "Alta",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                9,
+                26,
+                18,
+                6,
+                28,
+                17,
+                22,
+                21
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 18.375
+        },
+        {
+            "Nome Completo": "C\u00edcero Torres",
+            "G\u00eanero": "M",
+            "Altura": "Baixa",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                21,
+                22,
+                10,
+                8,
+                24,
+                28,
+                0,
+                3
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 14.5
+        },
+        {
+            "Nome Completo": "Ma\u00edraTorres",
+            "G\u00eanero": "F",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": true,
+            "Pontua\u00e7\u00e3o": [
+                29,
+                0,
+                0,
+                13,
+                17,
+                30,
+                0,
+                26
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 14.375
+        },
+        {
+            "Nome Completo": "Teresa Barroso",
+            "G\u00eanero": "F",
+            "Altura": "Alta",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                12,
+                10,
+                8,
+                19,
+                20,
+                6,
+                8,
+                29
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 14.0
+        },
+        {
+            "Nome Completo": "B\u00e1rbaraFinan\u00e7as ",
+            "G\u00eanero": "F",
+            "Altura": "Baixa",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                20,
+                28,
+                13,
+                20,
+                23,
+                9,
+                26,
+                14
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 19.125
+        },
+        {
+            "Nome Completo": "B\u00e1rbaraBarroso",
+            "G\u00eanero": "F",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                3,
+                0,
+                15,
+                14,
+                11,
+                11,
+                2,
+                0
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 7.0
+        },
+        {
+            "Nome Completo": "Michel MonteNegro",
+            "G\u00eanero": "M",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                3,
+                2,
+                19,
+                26,
+                26,
+                28,
+                17,
+                29
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 18.75
+        },
+        {
+            "Nome Completo": "B\u00e1rbaraTorres",
+            "G\u00eanero": "F",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                11,
+                21,
+                19,
+                21,
+                10,
+                12,
+                5,
+                25
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 15.5
+        },
+        {
+            "Nome Completo": "Cec\u00edliaFinan\u00e7as ",
+            "G\u00eanero": "F",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                23,
+                24,
+                5,
+                13,
+                8,
+                8,
+                7,
+                9
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 12.125
+        },
+        {
+            "Nome Completo": "Pedro Chuasn\u00e9guer",
+            "G\u00eanero": "M",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                13,
+                5,
+                27,
+                18,
+                12,
+                10,
+                21,
+                11
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 14.625
+        },
+        {
+            "Nome Completo": "Felipe MonteNegro",
+            "G\u00eanero": "M",
+            "Altura": "Baixa",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                9,
+                16,
+                8,
+                26,
+                1,
+                10,
+                22,
+                16
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 13.5
+        },
+        {
+            "Nome Completo": "Manoel Torres",
+            "G\u00eanero": "M",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                8,
+                18,
+                23,
+                11,
+                16,
+                2,
+                1,
+                9
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 11.0
+        },
+        {
+            "Nome Completo": "MillenaDiCaprio",
+            "G\u00eanero": "F",
+            "Altura": "Alta",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                26,
+                29,
+                0,
+                28,
+                20,
+                29,
+                26,
+                20
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 22.25
+        },
+        {
+            "Nome Completo": "Felipe MonteNegro",
+            "G\u00eanero": "M",
+            "Altura": "Baixa",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                29,
+                12,
+                16,
+                18,
+                7,
+                1,
+                15,
+                11
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 13.625
+        }
+    ]
+}{
+    "Pessoas": [
+        {
+            "Nome Completo": "MillenaFinan\u00e7as ",
+            "G\u00eanero": "F",
+            "Altura": "Baixa",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                18,
+                25,
+                6,
+                15,
+                29,
+                16,
+                22,
+                15
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 18.25
+        },
+        {
+            "Nome Completo": "Michel Niatierg\u00e1li",
+            "G\u00eanero": "M",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                5,
+                16,
+                12,
+                6,
+                29,
+                6,
+                21,
+                11
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 13.25
+        },
+        {
+            "Nome Completo": "Mar\u00edliaTorres",
+            "G\u00eanero": "F",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                20,
+                0,
+                18,
+                3,
+                17,
+                11,
+                16,
+                27
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 14.0
+        },
+        {
+            "Nome Completo": "Patr\u00edciaFinan\u00e7as ",
+            "G\u00eanero": "F",
+            "Altura": "Alta",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                16,
+                5,
+                3,
+                5,
+                25,
+                29,
+                24,
+                14
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 15.125
+        },
+        {
+            "Nome Completo": "B\u00e1rbaraFinan\u00e7as ",
+            "G\u00eanero": "F",
+            "Altura": "Alta",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                11,
+                5,
+                17,
+                17,
+                29,
+                20,
+                14,
+                27
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 17.5
+        },
+        {
+            "Nome Completo": "Victor Barroso",
+            "G\u00eanero": "M",
+            "Altura": "Baixa",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                26,
+                8,
+                17,
+                20,
+                2,
+                16,
+                16,
+                12
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 14.625
+        },
+        {
+            "Nome Completo": "AmandaBarroso",
+            "G\u00eanero": "F",
+            "Altura": "Baixa",
+            "Maior Pontua\u00e7\u00e3o": true,
+            "Pontua\u00e7\u00e3o": [
+                8,
+                21,
+                17,
+                3,
+                30,
+                12,
+                27,
+                12
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 16.25
+        },
+        {
+            "Nome Completo": "Victor Torres",
+            "G\u00eanero": "M",
+            "Altura": "Baixa",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                17,
+                22,
+                6,
+                26,
+                16,
+                5,
+                4,
+                22
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 14.75
+        },
+        {
+            "Nome Completo": "Joaquim MonteNegro",
+            "G\u00eanero": "M",
+            "Altura": "Baixa",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                4,
+                17,
+                11,
+                25,
+                0,
+                19,
+                5,
+                23
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 13.0
+        },
+        {
+            "Nome Completo": "DhiulyFalabella",
+            "G\u00eanero": "F",
+            "Altura": "Alta",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                2,
+                2,
+                16,
+                8,
+                2,
+                29,
+                25,
+                3
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 10.875
+        },
+        {
+            "Nome Completo": "MariaMonteNegro",
+            "G\u00eanero": "F",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": true,
+            "Pontua\u00e7\u00e3o": [
+                8,
+                30,
+                2,
+                21,
+                26,
+                14,
+                0,
+                5
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 13.25
+        },
+        {
+            "Nome Completo": "Victor DiCaprio",
+            "G\u00eanero": "M",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                21,
+                27,
+                24,
+                16,
+                11,
+                6,
+                18,
+                0
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 15.375
+        },
+        {
+            "Nome Completo": "Joaquim Barroso",
+            "G\u00eanero": "M",
+            "Altura": "Baixa",
+            "Maior Pontua\u00e7\u00e3o": true,
+            "Pontua\u00e7\u00e3o": [
+                5,
+                20,
+                9,
+                30,
+                0,
+                17,
+                27,
+                17
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 15.625
+        },
+        {
+            "Nome Completo": "Felipe Gianechinne",
+            "G\u00eanero": "M",
+            "Altura": "Alta",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                15,
+                10,
+                0,
+                15,
+                7,
+                0,
+                6,
+                21
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 9.25
+        },
+        {
+            "Nome Completo": "Manoel DiCaprio",
+            "G\u00eanero": "M",
+            "Altura": "Baixa",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                27,
+                7,
+                26,
+                29,
+                25,
+                20,
+                14,
+                20
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 21.0
+        },
+        {
+            "Nome Completo": "GiuliaGianechinne",
+            "G\u00eanero": "F",
+            "Altura": "Baixa",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                29,
+                16,
+                16,
+                11,
+                21,
+                15,
+                3,
+                19
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 16.25
+        },
+        {
+            "Nome Completo": "Pedro Torres",
+            "G\u00eanero": "M",
+            "Altura": "Alta",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                7,
+                18,
+                17,
+                9,
+                4,
+                22,
+                11,
+                22
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 13.75
+        },
+        {
+            "Nome Completo": "Ronaldo Torres",
+            "G\u00eanero": "M",
+            "Altura": "Alta",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                26,
+                14,
+                11,
+                20,
+                4,
+                7,
+                28,
+                21
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 16.375
+        },
+        {
+            "Nome Completo": "Joaquim Chuasn\u00e9guer",
+            "G\u00eanero": "M",
+            "Altura": "Alta",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                6,
+                28,
+                7,
+                29,
+                19,
+                10,
+                26,
+                21
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 18.25
+        },
+        {
+            "Nome Completo": "Ma\u00edraNiatierg\u00e1li",
+            "G\u00eanero": "F",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                5,
+                15,
+                9,
+                19,
+                23,
+                24,
+                29,
+                24
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 18.5
+        },
+        {
+            "Nome Completo": "Pedro Gianechinne",
+            "G\u00eanero": "M",
+            "Altura": "Alta",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                18,
+                21,
+                2,
+                25,
+                5,
+                21,
+                22,
+                11
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 15.625
+        },
+        {
+            "Nome Completo": "Teresa Finan\u00e7as ",
+            "G\u00eanero": "F",
+            "Altura": "Baixa",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                7,
+                3,
+                10,
+                23,
+                21,
+                1,
+                29,
+                2
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 12.0
+        },
+        {
+            "Nome Completo": "Patr\u00edciaDiCaprio",
+            "G\u00eanero": "F",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                28,
+                17,
+                10,
+                9,
+                19,
+                25,
+                8,
+                12
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 16.0
+        },
+        {
+            "Nome Completo": "Patr\u00edciaDiCaprio",
+            "G\u00eanero": "F",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                9,
+                8,
+                15,
+                28,
+                28,
+                26,
+                3,
+                1
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 14.75
+        },
+        {
+            "Nome Completo": "Arnaldo Torres",
+            "G\u00eanero": "M",
+            "Altura": "Alta",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                7,
+                8,
+                18,
+                25,
+                13,
+                28,
+                7,
+                5
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 13.875
+        },
+        {
+            "Nome Completo": "Guilherme Barroso",
+            "G\u00eanero": "M",
+            "Altura": "Baixa",
+            "Maior Pontua\u00e7\u00e3o": true,
+            "Pontua\u00e7\u00e3o": [
+                30,
+                6,
+                4,
+                26,
+                5,
+                22,
+                7,
+                13
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 14.125
+        },
+        {
+            "Nome Completo": "Manoel Barroso",
+            "G\u00eanero": "M",
+            "Altura": "Alta",
+            "Maior Pontua\u00e7\u00e3o": true,
+            "Pontua\u00e7\u00e3o": [
+                6,
+                21,
+                6,
+                21,
+                13,
+                30,
+                5,
+                12
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 14.25
+        },
+        {
+            "Nome Completo": "Joaquim Falabella",
+            "G\u00eanero": "M",
+            "Altura": "Alta",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                27,
+                4,
+                2,
+                4,
+                23,
+                28,
+                23,
+                29
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 17.5
+        },
+        {
+            "Nome Completo": "Ronaldo Finan\u00e7as ",
+            "G\u00eanero": "M",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": true,
+            "Pontua\u00e7\u00e3o": [
+                21,
+                20,
+                23,
+                26,
+                9,
+                15,
+                1,
+                30
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 18.125
+        },
+        {
+            "Nome Completo": "Manoel Falabella",
+            "G\u00eanero": "M",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": true,
+            "Pontua\u00e7\u00e3o": [
+                30,
+                10,
+                20,
+                16,
+                0,
+                1,
+                9,
+                25
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 13.875
+        },
+        {
+            "Nome Completo": "Ma\u00edraFalabella",
+            "G\u00eanero": "F",
+            "Altura": "Alta",
+            "Maior Pontua\u00e7\u00e3o": true,
+            "Pontua\u00e7\u00e3o": [
+                16,
+                30,
+                18,
+                16,
+                9,
+                14,
+                7,
+                4
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 14.25
+        },
+        {
+            "Nome Completo": "MillenaNiatierg\u00e1li",
+            "G\u00eanero": "F",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                1,
+                14,
+                24,
+                3,
+                24,
+                29,
+                23,
+                25
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 17.875
+        },
+        {
+            "Nome Completo": "AmandaBarroso",
+            "G\u00eanero": "F",
+            "Altura": "Alta",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                4,
+                7,
+                8,
+                18,
+                6,
+                13,
+                15,
+                26
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 12.125
+        },
+        {
+            "Nome Completo": "B\u00e1rbaraMonteNegro",
+            "G\u00eanero": "F",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                29,
+                18,
+                24,
+                0,
+                13,
+                22,
+                18,
+                3
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 15.875
+        },
+        {
+            "Nome Completo": "Patr\u00edciaGianechinne",
+            "G\u00eanero": "F",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                29,
+                10,
+                0,
+                9,
+                2,
+                2,
+                5,
+                4
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 7.625
+        },
+        {
+            "Nome Completo": "Teresa Gianechinne",
+            "G\u00eanero": "F",
+            "Altura": "Alta",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                7,
+                21,
+                3,
+                21,
+                7,
+                4,
+                5,
+                12
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 10.0
+        },
+        {
+            "Nome Completo": "Mar\u00edliaTorres",
+            "G\u00eanero": "F",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                9,
+                22,
+                18,
+                8,
+                24,
+                8,
+                16,
+                12
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 14.625
+        },
+        {
+            "Nome Completo": "Felipe Falabella",
+            "G\u00eanero": "M",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                9,
+                20,
+                4,
+                10,
+                13,
+                17,
+                16,
+                26
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 14.375
+        },
+        {
+            "Nome Completo": "Teresa DiCaprio",
+            "G\u00eanero": "F",
+            "Altura": "Alta",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                11,
+                12,
+                14,
+                9,
+                8,
+                21,
+                16,
+                15
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 13.25
+        },
+        {
+            "Nome Completo": "AmandaGianechinne",
+            "G\u00eanero": "F",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                21,
+                3,
+                16,
+                26,
+                8,
+                25,
+                4,
+                19
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 15.25
+        },
+        {
+            "Nome Completo": "Victor DiCaprio",
+            "G\u00eanero": "M",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": true,
+            "Pontua\u00e7\u00e3o": [
+                30,
+                1,
+                0,
+                27,
+                5,
+                0,
+                19,
+                0
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 10.25
+        },
+        {
+            "Nome Completo": "Pedro Barroso",
+            "G\u00eanero": "M",
+            "Altura": "Baixa",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                19,
+                18,
+                16,
+                12,
+                7,
+                2,
+                6,
+                13
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 11.625
+        },
+        {
+            "Nome Completo": "Ant\u00f4nio Gianechinne",
+            "G\u00eanero": "M",
+            "Altura": "Baixa",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                12,
+                11,
+                2,
+                16,
+                19,
+                27,
+                28,
+                8
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 15.375
+        },
+        {
+            "Nome Completo": "Mar\u00edliaDiCaprio",
+            "G\u00eanero": "F",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                15,
+                16,
+                29,
+                0,
+                0,
+                9,
+                22,
+                1
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 11.5
+        },
+        {
+            "Nome Completo": "Arnaldo Falabella",
+            "G\u00eanero": "M",
+            "Altura": "Alta",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                24,
+                15,
+                9,
+                8,
+                11,
+                13,
+                9,
+                24
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 14.125
+        },
+        {
+            "Nome Completo": "AmandaDiCaprio",
+            "G\u00eanero": "F",
+            "Altura": "Alta",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                29,
+                21,
+                25,
+                4,
+                5,
+                16,
+                9,
+                26
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 16.875
+        },
+        {
+            "Nome Completo": "Joaquim Finan\u00e7as ",
+            "G\u00eanero": "M",
+            "Altura": "Baixa",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                4,
+                26,
+                13,
+                20,
+                21,
+                18,
+                2,
+                19
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 15.375
+        },
+        {
+            "Nome Completo": "MillenaFinan\u00e7as ",
+            "G\u00eanero": "F",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                29,
+                20,
+                0,
+                0,
+                7,
+                22,
+                25,
+                8
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 13.875
+        },
+        {
+            "Nome Completo": "Guilherme Falabella",
+            "G\u00eanero": "M",
+            "Altura": "Baixa",
+            "Maior Pontua\u00e7\u00e3o": true,
+            "Pontua\u00e7\u00e3o": [
+                7,
+                30,
+                3,
+                21,
+                13,
+                23,
+                22,
+                3
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 15.25
+        },
+        {
+            "Nome Completo": "Guilherme Finan\u00e7as ",
+            "G\u00eanero": "M",
+            "Altura": "Baixa",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                24,
+                12,
+                29,
+                4,
+                25,
+                23,
+                27,
+                2
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 18.25
+        },
+        {
+            "Nome Completo": "Cec\u00edliaTorres",
+            "G\u00eanero": "F",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                20,
+                29,
+                13,
+                5,
+                19,
+                9,
+                11,
+                10
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 14.5
+        },
+        {
+            "Nome Completo": "Ant\u00f4nio Falabella",
+            "G\u00eanero": "M",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                15,
+                17,
+                9,
+                28,
+                3,
+                13,
+                3,
+                8
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 12.0
+        },
+        {
+            "Nome Completo": "Cec\u00edliaChuasn\u00e9guer",
+            "G\u00eanero": "F",
+            "Altura": "Alta",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                9,
+                20,
+                7,
+                17,
+                14,
+                2,
+                15,
+                24
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 13.5
+        },
+        {
+            "Nome Completo": "Felipe DiCaprio",
+            "G\u00eanero": "M",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                19,
+                16,
+                6,
+                1,
+                11,
+                25,
+                1,
+                21
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 12.5
+        },
+        {
+            "Nome Completo": "Michel Finan\u00e7as ",
+            "G\u00eanero": "M",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                29,
+                8,
+                22,
+                0,
+                23,
+                20,
+                24,
+                24
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 18.75
+        },
+        {
+            "Nome Completo": "Teresa DiCaprio",
+            "G\u00eanero": "F",
+            "Altura": "Baixa",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                2,
+                2,
+                21,
+                17,
+                14,
+                21,
+                23,
+                0
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 12.5
+        },
+        {
+            "Nome Completo": "Victor Torres",
+            "G\u00eanero": "M",
+            "Altura": "Baixa",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                16,
+                19,
+                25,
+                28,
+                8,
+                11,
+                27,
+                4
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 17.25
+        },
+        {
+            "Nome Completo": "C\u00edcero Gianechinne",
+            "G\u00eanero": "M",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                20,
+                26,
+                1,
+                8,
+                15,
+                19,
+                12,
+                0
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 12.625
+        },
+        {
+            "Nome Completo": "Guilherme Torres",
+            "G\u00eanero": "M",
+            "Altura": "Alta",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                6,
+                5,
+                17,
+                16,
+                8,
+                10,
+                13,
+                15
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 11.25
+        },
+        {
+            "Nome Completo": "Ma\u00edraFalabella",
+            "G\u00eanero": "F",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                19,
+                8,
+                21,
+                8,
+                15,
+                13,
+                10,
+                16
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 13.75
+        },
+        {
+            "Nome Completo": "Arnaldo Chuasn\u00e9guer",
+            "G\u00eanero": "M",
+            "Altura": "Alta",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                16,
+                29,
+                7,
+                6,
+                28,
+                19,
+                27,
+                24
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 19.5
+        },
+        {
+            "Nome Completo": "Arnaldo Torres",
+            "G\u00eanero": "M",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                29,
+                27,
+                16,
+                15,
+                10,
+                29,
+                22,
+                25
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 21.625
+        },
+        {
+            "Nome Completo": "DhiulyChuasn\u00e9guer",
+            "G\u00eanero": "F",
+            "Altura": "Alta",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                0,
+                5,
+                2,
+                8,
+                5,
+                28,
+                19,
+                1
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 8.5
+        },
+        {
+            "Nome Completo": "GiuliaBarroso",
+            "G\u00eanero": "F",
+            "Altura": "Alta",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                18,
+                25,
+                26,
+                2,
+                15,
+                20,
+                3,
+                19
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 16.0
+        },
+        {
+            "Nome Completo": "GiuliaNiatierg\u00e1li",
+            "G\u00eanero": "F",
+            "Altura": "Alta",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                22,
+                13,
+                28,
+                27,
+                23,
+                7,
+                10,
+                10
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 17.5
+        },
+        {
+            "Nome Completo": "Pedro Barroso",
+            "G\u00eanero": "M",
+            "Altura": "Alta",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                12,
+                7,
+                18,
+                5,
+                2,
+                16,
+                23,
+                16
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 12.375
+        },
+        {
+            "Nome Completo": "B\u00e1rbaraMonteNegro",
+            "G\u00eanero": "F",
+            "Altura": "Baixa",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                29,
+                25,
+                22,
+                5,
+                0,
+                26,
+                4,
+                29
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 17.5
+        },
+        {
+            "Nome Completo": "C\u00edcero DiCaprio",
+            "G\u00eanero": "M",
+            "Altura": "Alta",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                13,
+                21,
+                4,
+                1,
+                14,
+                19,
+                3,
+                19
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 11.75
+        },
+        {
+            "Nome Completo": "Ma\u00edraChuasn\u00e9guer",
+            "G\u00eanero": "F",
+            "Altura": "Alta",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                13,
+                8,
+                12,
+                23,
+                15,
+                6,
+                8,
+                17
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 12.75
+        },
+        {
+            "Nome Completo": "Ronaldo Niatierg\u00e1li",
+            "G\u00eanero": "M",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": true,
+            "Pontua\u00e7\u00e3o": [
+                23,
+                18,
+                5,
+                30,
+                28,
+                3,
+                11,
+                18
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 17.0
+        },
+        {
+            "Nome Completo": "Patr\u00edciaDiCaprio",
+            "G\u00eanero": "F",
+            "Altura": "Alta",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                6,
+                7,
+                1,
+                4,
+                0,
+                3,
+                15,
+                12
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 6.0
+        },
+        {
+            "Nome Completo": "Ronaldo MonteNegro",
+            "G\u00eanero": "M",
+            "Altura": "Alta",
+            "Maior Pontua\u00e7\u00e3o": true,
+            "Pontua\u00e7\u00e3o": [
+                22,
+                10,
+                17,
+                1,
+                8,
+                30,
+                22,
+                22
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 16.5
+        },
+        {
+            "Nome Completo": "DhiulyGianechinne",
+            "G\u00eanero": "F",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                0,
+                19,
+                19,
+                8,
+                6,
+                0,
+                19,
+                11
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 10.25
+        },
+        {
+            "Nome Completo": "Manoel MonteNegro",
+            "G\u00eanero": "M",
+            "Altura": "Alta",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                14,
+                18,
+                2,
+                5,
+                23,
+                2,
+                26,
+                28
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 14.75
+        },
+        {
+            "Nome Completo": "Manoel Niatierg\u00e1li",
+            "G\u00eanero": "M",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": true,
+            "Pontua\u00e7\u00e3o": [
+                30,
+                16,
+                29,
+                2,
+                15,
+                5,
+                28,
+                30
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 19.375
+        },
+        {
+            "Nome Completo": "Arnaldo Gianechinne",
+            "G\u00eanero": "M",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": true,
+            "Pontua\u00e7\u00e3o": [
+                30,
+                17,
+                4,
+                4,
+                0,
+                16,
+                24,
+                29
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 15.5
+        },
+        {
+            "Nome Completo": "DhiulyTorres",
+            "G\u00eanero": "F",
+            "Altura": "Alta",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                9,
+                26,
+                18,
+                6,
+                28,
+                17,
+                22,
+                21
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 18.375
+        },
+        {
+            "Nome Completo": "C\u00edcero Torres",
+            "G\u00eanero": "M",
+            "Altura": "Baixa",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                21,
+                22,
+                10,
+                8,
+                24,
+                28,
+                0,
+                3
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 14.5
+        },
+        {
+            "Nome Completo": "Ma\u00edraTorres",
+            "G\u00eanero": "F",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": true,
+            "Pontua\u00e7\u00e3o": [
+                29,
+                0,
+                0,
+                13,
+                17,
+                30,
+                0,
+                26
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 14.375
+        },
+        {
+            "Nome Completo": "Teresa Barroso",
+            "G\u00eanero": "F",
+            "Altura": "Alta",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                12,
+                10,
+                8,
+                19,
+                20,
+                6,
+                8,
+                29
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 14.0
+        },
+        {
+            "Nome Completo": "B\u00e1rbaraFinan\u00e7as ",
+            "G\u00eanero": "F",
+            "Altura": "Baixa",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                20,
+                28,
+                13,
+                20,
+                23,
+                9,
+                26,
+                14
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 19.125
+        },
+        {
+            "Nome Completo": "B\u00e1rbaraBarroso",
+            "G\u00eanero": "F",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                3,
+                0,
+                15,
+                14,
+                11,
+                11,
+                2,
+                0
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 7.0
+        },
+        {
+            "Nome Completo": "Michel MonteNegro",
+            "G\u00eanero": "M",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                3,
+                2,
+                19,
+                26,
+                26,
+                28,
+                17,
+                29
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 18.75
+        },
+        {
+            "Nome Completo": "B\u00e1rbaraTorres",
+            "G\u00eanero": "F",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                11,
+                21,
+                19,
+                21,
+                10,
+                12,
+                5,
+                25
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 15.5
+        },
+        {
+            "Nome Completo": "Cec\u00edliaFinan\u00e7as ",
+            "G\u00eanero": "F",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                23,
+                24,
+                5,
+                13,
+                8,
+                8,
+                7,
+                9
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 12.125
+        },
+        {
+            "Nome Completo": "Pedro Chuasn\u00e9guer",
+            "G\u00eanero": "M",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                13,
+                5,
+                27,
+                18,
+                12,
+                10,
+                21,
+                11
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 14.625
+        },
+        {
+            "Nome Completo": "Felipe MonteNegro",
+            "G\u00eanero": "M",
+            "Altura": "Baixa",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                9,
+                16,
+                8,
+                26,
+                1,
+                10,
+                22,
+                16
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 13.5
+        },
+        {
+            "Nome Completo": "Manoel Torres",
+            "G\u00eanero": "M",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                8,
+                18,
+                23,
+                11,
+                16,
+                2,
+                1,
+                9
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 11.0
+        },
+        {
+            "Nome Completo": "MillenaDiCaprio",
+            "G\u00eanero": "F",
+            "Altura": "Alta",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                26,
+                29,
+                0,
+                28,
+                20,
+                29,
+                26,
+                20
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 22.25
+        },
+        {
+            "Nome Completo": "Felipe MonteNegro",
+            "G\u00eanero": "M",
+            "Altura": "Baixa",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                29,
+                12,
+                16,
+                18,
+                7,
+                1,
+                15,
+                11
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 13.625
+        }
+    ]
+}{
+    "Pessoas": [
+        {
+            "Nome Completo": "MillenaFinan\u00e7as ",
+            "G\u00eanero": "F",
+            "Altura": "Baixa",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                18,
+                25,
+                6,
+                15,
+                29,
+                16,
+                22,
+                15
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 18.25
+        },
+        {
+            "Nome Completo": "Michel Niatierg\u00e1li",
+            "G\u00eanero": "M",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                5,
+                16,
+                12,
+                6,
+                29,
+                6,
+                21,
+                11
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 13.25
+        },
+        {
+            "Nome Completo": "Mar\u00edliaTorres",
+            "G\u00eanero": "F",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                20,
+                0,
+                18,
+                3,
+                17,
+                11,
+                16,
+                27
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 14.0
+        },
+        {
+            "Nome Completo": "Patr\u00edciaFinan\u00e7as ",
+            "G\u00eanero": "F",
+            "Altura": "Alta",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                16,
+                5,
+                3,
+                5,
+                25,
+                29,
+                24,
+                14
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 15.125
+        },
+        {
+            "Nome Completo": "B\u00e1rbaraFinan\u00e7as ",
+            "G\u00eanero": "F",
+            "Altura": "Alta",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                11,
+                5,
+                17,
+                17,
+                29,
+                20,
+                14,
+                27
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 17.5
+        },
+        {
+            "Nome Completo": "Victor Barroso",
+            "G\u00eanero": "M",
+            "Altura": "Baixa",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                26,
+                8,
+                17,
+                20,
+                2,
+                16,
+                16,
+                12
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 14.625
+        },
+        {
+            "Nome Completo": "AmandaBarroso",
+            "G\u00eanero": "F",
+            "Altura": "Baixa",
+            "Maior Pontua\u00e7\u00e3o": true,
+            "Pontua\u00e7\u00e3o": [
+                8,
+                21,
+                17,
+                3,
+                30,
+                12,
+                27,
+                12
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 16.25
+        },
+        {
+            "Nome Completo": "Victor Torres",
+            "G\u00eanero": "M",
+            "Altura": "Baixa",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                17,
+                22,
+                6,
+                26,
+                16,
+                5,
+                4,
+                22
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 14.75
+        },
+        {
+            "Nome Completo": "Joaquim MonteNegro",
+            "G\u00eanero": "M",
+            "Altura": "Baixa",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                4,
+                17,
+                11,
+                25,
+                0,
+                19,
+                5,
+                23
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 13.0
+        },
+        {
+            "Nome Completo": "DhiulyFalabella",
+            "G\u00eanero": "F",
+            "Altura": "Alta",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                2,
+                2,
+                16,
+                8,
+                2,
+                29,
+                25,
+                3
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 10.875
+        },
+        {
+            "Nome Completo": "MariaMonteNegro",
+            "G\u00eanero": "F",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": true,
+            "Pontua\u00e7\u00e3o": [
+                8,
+                30,
+                2,
+                21,
+                26,
+                14,
+                0,
+                5
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 13.25
+        },
+        {
+            "Nome Completo": "Victor DiCaprio",
+            "G\u00eanero": "M",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                21,
+                27,
+                24,
+                16,
+                11,
+                6,
+                18,
+                0
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 15.375
+        },
+        {
+            "Nome Completo": "Joaquim Barroso",
+            "G\u00eanero": "M",
+            "Altura": "Baixa",
+            "Maior Pontua\u00e7\u00e3o": true,
+            "Pontua\u00e7\u00e3o": [
+                5,
+                20,
+                9,
+                30,
+                0,
+                17,
+                27,
+                17
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 15.625
+        },
+        {
+            "Nome Completo": "Felipe Gianechinne",
+            "G\u00eanero": "M",
+            "Altura": "Alta",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                15,
+                10,
+                0,
+                15,
+                7,
+                0,
+                6,
+                21
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 9.25
+        },
+        {
+            "Nome Completo": "Manoel DiCaprio",
+            "G\u00eanero": "M",
+            "Altura": "Baixa",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                27,
+                7,
+                26,
+                29,
+                25,
+                20,
+                14,
+                20
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 21.0
+        },
+        {
+            "Nome Completo": "GiuliaGianechinne",
+            "G\u00eanero": "F",
+            "Altura": "Baixa",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                29,
+                16,
+                16,
+                11,
+                21,
+                15,
+                3,
+                19
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 16.25
+        },
+        {
+            "Nome Completo": "Pedro Torres",
+            "G\u00eanero": "M",
+            "Altura": "Alta",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                7,
+                18,
+                17,
+                9,
+                4,
+                22,
+                11,
+                22
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 13.75
+        },
+        {
+            "Nome Completo": "Ronaldo Torres",
+            "G\u00eanero": "M",
+            "Altura": "Alta",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                26,
+                14,
+                11,
+                20,
+                4,
+                7,
+                28,
+                21
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 16.375
+        },
+        {
+            "Nome Completo": "Joaquim Chuasn\u00e9guer",
+            "G\u00eanero": "M",
+            "Altura": "Alta",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                6,
+                28,
+                7,
+                29,
+                19,
+                10,
+                26,
+                21
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 18.25
+        },
+        {
+            "Nome Completo": "Ma\u00edraNiatierg\u00e1li",
+            "G\u00eanero": "F",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                5,
+                15,
+                9,
+                19,
+                23,
+                24,
+                29,
+                24
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 18.5
+        },
+        {
+            "Nome Completo": "Pedro Gianechinne",
+            "G\u00eanero": "M",
+            "Altura": "Alta",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                18,
+                21,
+                2,
+                25,
+                5,
+                21,
+                22,
+                11
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 15.625
+        },
+        {
+            "Nome Completo": "Teresa Finan\u00e7as ",
+            "G\u00eanero": "F",
+            "Altura": "Baixa",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                7,
+                3,
+                10,
+                23,
+                21,
+                1,
+                29,
+                2
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 12.0
+        },
+        {
+            "Nome Completo": "Patr\u00edciaDiCaprio",
+            "G\u00eanero": "F",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                28,
+                17,
+                10,
+                9,
+                19,
+                25,
+                8,
+                12
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 16.0
+        },
+        {
+            "Nome Completo": "Patr\u00edciaDiCaprio",
+            "G\u00eanero": "F",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                9,
+                8,
+                15,
+                28,
+                28,
+                26,
+                3,
+                1
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 14.75
+        },
+        {
+            "Nome Completo": "Arnaldo Torres",
+            "G\u00eanero": "M",
+            "Altura": "Alta",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                7,
+                8,
+                18,
+                25,
+                13,
+                28,
+                7,
+                5
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 13.875
+        },
+        {
+            "Nome Completo": "Guilherme Barroso",
+            "G\u00eanero": "M",
+            "Altura": "Baixa",
+            "Maior Pontua\u00e7\u00e3o": true,
+            "Pontua\u00e7\u00e3o": [
+                30,
+                6,
+                4,
+                26,
+                5,
+                22,
+                7,
+                13
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 14.125
+        },
+        {
+            "Nome Completo": "Manoel Barroso",
+            "G\u00eanero": "M",
+            "Altura": "Alta",
+            "Maior Pontua\u00e7\u00e3o": true,
+            "Pontua\u00e7\u00e3o": [
+                6,
+                21,
+                6,
+                21,
+                13,
+                30,
+                5,
+                12
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 14.25
+        },
+        {
+            "Nome Completo": "Joaquim Falabella",
+            "G\u00eanero": "M",
+            "Altura": "Alta",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                27,
+                4,
+                2,
+                4,
+                23,
+                28,
+                23,
+                29
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 17.5
+        },
+        {
+            "Nome Completo": "Ronaldo Finan\u00e7as ",
+            "G\u00eanero": "M",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": true,
+            "Pontua\u00e7\u00e3o": [
+                21,
+                20,
+                23,
+                26,
+                9,
+                15,
+                1,
+                30
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 18.125
+        },
+        {
+            "Nome Completo": "Manoel Falabella",
+            "G\u00eanero": "M",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": true,
+            "Pontua\u00e7\u00e3o": [
+                30,
+                10,
+                20,
+                16,
+                0,
+                1,
+                9,
+                25
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 13.875
+        },
+        {
+            "Nome Completo": "Ma\u00edraFalabella",
+            "G\u00eanero": "F",
+            "Altura": "Alta",
+            "Maior Pontua\u00e7\u00e3o": true,
+            "Pontua\u00e7\u00e3o": [
+                16,
+                30,
+                18,
+                16,
+                9,
+                14,
+                7,
+                4
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 14.25
+        },
+        {
+            "Nome Completo": "MillenaNiatierg\u00e1li",
+            "G\u00eanero": "F",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                1,
+                14,
+                24,
+                3,
+                24,
+                29,
+                23,
+                25
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 17.875
+        },
+        {
+            "Nome Completo": "AmandaBarroso",
+            "G\u00eanero": "F",
+            "Altura": "Alta",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                4,
+                7,
+                8,
+                18,
+                6,
+                13,
+                15,
+                26
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 12.125
+        },
+        {
+            "Nome Completo": "B\u00e1rbaraMonteNegro",
+            "G\u00eanero": "F",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                29,
+                18,
+                24,
+                0,
+                13,
+                22,
+                18,
+                3
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 15.875
+        },
+        {
+            "Nome Completo": "Patr\u00edciaGianechinne",
+            "G\u00eanero": "F",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                29,
+                10,
+                0,
+                9,
+                2,
+                2,
+                5,
+                4
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 7.625
+        },
+        {
+            "Nome Completo": "Teresa Gianechinne",
+            "G\u00eanero": "F",
+            "Altura": "Alta",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                7,
+                21,
+                3,
+                21,
+                7,
+                4,
+                5,
+                12
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 10.0
+        },
+        {
+            "Nome Completo": "Mar\u00edliaTorres",
+            "G\u00eanero": "F",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                9,
+                22,
+                18,
+                8,
+                24,
+                8,
+                16,
+                12
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 14.625
+        },
+        {
+            "Nome Completo": "Felipe Falabella",
+            "G\u00eanero": "M",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                9,
+                20,
+                4,
+                10,
+                13,
+                17,
+                16,
+                26
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 14.375
+        },
+        {
+            "Nome Completo": "Teresa DiCaprio",
+            "G\u00eanero": "F",
+            "Altura": "Alta",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                11,
+                12,
+                14,
+                9,
+                8,
+                21,
+                16,
+                15
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 13.25
+        },
+        {
+            "Nome Completo": "AmandaGianechinne",
+            "G\u00eanero": "F",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                21,
+                3,
+                16,
+                26,
+                8,
+                25,
+                4,
+                19
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 15.25
+        },
+        {
+            "Nome Completo": "Victor DiCaprio",
+            "G\u00eanero": "M",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": true,
+            "Pontua\u00e7\u00e3o": [
+                30,
+                1,
+                0,
+                27,
+                5,
+                0,
+                19,
+                0
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 10.25
+        },
+        {
+            "Nome Completo": "Pedro Barroso",
+            "G\u00eanero": "M",
+            "Altura": "Baixa",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                19,
+                18,
+                16,
+                12,
+                7,
+                2,
+                6,
+                13
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 11.625
+        },
+        {
+            "Nome Completo": "Ant\u00f4nio Gianechinne",
+            "G\u00eanero": "M",
+            "Altura": "Baixa",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                12,
+                11,
+                2,
+                16,
+                19,
+                27,
+                28,
+                8
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 15.375
+        },
+        {
+            "Nome Completo": "Mar\u00edliaDiCaprio",
+            "G\u00eanero": "F",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                15,
+                16,
+                29,
+                0,
+                0,
+                9,
+                22,
+                1
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 11.5
+        },
+        {
+            "Nome Completo": "Arnaldo Falabella",
+            "G\u00eanero": "M",
+            "Altura": "Alta",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                24,
+                15,
+                9,
+                8,
+                11,
+                13,
+                9,
+                24
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 14.125
+        },
+        {
+            "Nome Completo": "AmandaDiCaprio",
+            "G\u00eanero": "F",
+            "Altura": "Alta",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                29,
+                21,
+                25,
+                4,
+                5,
+                16,
+                9,
+                26
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 16.875
+        },
+        {
+            "Nome Completo": "Joaquim Finan\u00e7as ",
+            "G\u00eanero": "M",
+            "Altura": "Baixa",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                4,
+                26,
+                13,
+                20,
+                21,
+                18,
+                2,
+                19
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 15.375
+        },
+        {
+            "Nome Completo": "MillenaFinan\u00e7as ",
+            "G\u00eanero": "F",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                29,
+                20,
+                0,
+                0,
+                7,
+                22,
+                25,
+                8
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 13.875
+        },
+        {
+            "Nome Completo": "Guilherme Falabella",
+            "G\u00eanero": "M",
+            "Altura": "Baixa",
+            "Maior Pontua\u00e7\u00e3o": true,
+            "Pontua\u00e7\u00e3o": [
+                7,
+                30,
+                3,
+                21,
+                13,
+                23,
+                22,
+                3
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 15.25
+        },
+        {
+            "Nome Completo": "Guilherme Finan\u00e7as ",
+            "G\u00eanero": "M",
+            "Altura": "Baixa",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                24,
+                12,
+                29,
+                4,
+                25,
+                23,
+                27,
+                2
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 18.25
+        },
+        {
+            "Nome Completo": "Cec\u00edliaTorres",
+            "G\u00eanero": "F",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                20,
+                29,
+                13,
+                5,
+                19,
+                9,
+                11,
+                10
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 14.5
+        },
+        {
+            "Nome Completo": "Ant\u00f4nio Falabella",
+            "G\u00eanero": "M",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                15,
+                17,
+                9,
+                28,
+                3,
+                13,
+                3,
+                8
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 12.0
+        },
+        {
+            "Nome Completo": "Cec\u00edliaChuasn\u00e9guer",
+            "G\u00eanero": "F",
+            "Altura": "Alta",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                9,
+                20,
+                7,
+                17,
+                14,
+                2,
+                15,
+                24
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 13.5
+        },
+        {
+            "Nome Completo": "Felipe DiCaprio",
+            "G\u00eanero": "M",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                19,
+                16,
+                6,
+                1,
+                11,
+                25,
+                1,
+                21
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 12.5
+        },
+        {
+            "Nome Completo": "Michel Finan\u00e7as ",
+            "G\u00eanero": "M",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                29,
+                8,
+                22,
+                0,
+                23,
+                20,
+                24,
+                24
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 18.75
+        },
+        {
+            "Nome Completo": "Teresa DiCaprio",
+            "G\u00eanero": "F",
+            "Altura": "Baixa",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                2,
+                2,
+                21,
+                17,
+                14,
+                21,
+                23,
+                0
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 12.5
+        },
+        {
+            "Nome Completo": "Victor Torres",
+            "G\u00eanero": "M",
+            "Altura": "Baixa",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                16,
+                19,
+                25,
+                28,
+                8,
+                11,
+                27,
+                4
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 17.25
+        },
+        {
+            "Nome Completo": "C\u00edcero Gianechinne",
+            "G\u00eanero": "M",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                20,
+                26,
+                1,
+                8,
+                15,
+                19,
+                12,
+                0
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 12.625
+        },
+        {
+            "Nome Completo": "Guilherme Torres",
+            "G\u00eanero": "M",
+            "Altura": "Alta",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                6,
+                5,
+                17,
+                16,
+                8,
+                10,
+                13,
+                15
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 11.25
+        },
+        {
+            "Nome Completo": "Ma\u00edraFalabella",
+            "G\u00eanero": "F",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                19,
+                8,
+                21,
+                8,
+                15,
+                13,
+                10,
+                16
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 13.75
+        },
+        {
+            "Nome Completo": "Arnaldo Chuasn\u00e9guer",
+            "G\u00eanero": "M",
+            "Altura": "Alta",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                16,
+                29,
+                7,
+                6,
+                28,
+                19,
+                27,
+                24
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 19.5
+        },
+        {
+            "Nome Completo": "Arnaldo Torres",
+            "G\u00eanero": "M",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                29,
+                27,
+                16,
+                15,
+                10,
+                29,
+                22,
+                25
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 21.625
+        },
+        {
+            "Nome Completo": "DhiulyChuasn\u00e9guer",
+            "G\u00eanero": "F",
+            "Altura": "Alta",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                0,
+                5,
+                2,
+                8,
+                5,
+                28,
+                19,
+                1
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 8.5
+        },
+        {
+            "Nome Completo": "GiuliaBarroso",
+            "G\u00eanero": "F",
+            "Altura": "Alta",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                18,
+                25,
+                26,
+                2,
+                15,
+                20,
+                3,
+                19
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 16.0
+        },
+        {
+            "Nome Completo": "GiuliaNiatierg\u00e1li",
+            "G\u00eanero": "F",
+            "Altura": "Alta",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                22,
+                13,
+                28,
+                27,
+                23,
+                7,
+                10,
+                10
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 17.5
+        },
+        {
+            "Nome Completo": "Pedro Barroso",
+            "G\u00eanero": "M",
+            "Altura": "Alta",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                12,
+                7,
+                18,
+                5,
+                2,
+                16,
+                23,
+                16
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 12.375
+        },
+        {
+            "Nome Completo": "B\u00e1rbaraMonteNegro",
+            "G\u00eanero": "F",
+            "Altura": "Baixa",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                29,
+                25,
+                22,
+                5,
+                0,
+                26,
+                4,
+                29
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 17.5
+        },
+        {
+            "Nome Completo": "C\u00edcero DiCaprio",
+            "G\u00eanero": "M",
+            "Altura": "Alta",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                13,
+                21,
+                4,
+                1,
+                14,
+                19,
+                3,
+                19
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 11.75
+        },
+        {
+            "Nome Completo": "Ma\u00edraChuasn\u00e9guer",
+            "G\u00eanero": "F",
+            "Altura": "Alta",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                13,
+                8,
+                12,
+                23,
+                15,
+                6,
+                8,
+                17
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 12.75
+        },
+        {
+            "Nome Completo": "Ronaldo Niatierg\u00e1li",
+            "G\u00eanero": "M",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": true,
+            "Pontua\u00e7\u00e3o": [
+                23,
+                18,
+                5,
+                30,
+                28,
+                3,
+                11,
+                18
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 17.0
+        },
+        {
+            "Nome Completo": "Patr\u00edciaDiCaprio",
+            "G\u00eanero": "F",
+            "Altura": "Alta",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                6,
+                7,
+                1,
+                4,
+                0,
+                3,
+                15,
+                12
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 6.0
+        },
+        {
+            "Nome Completo": "Ronaldo MonteNegro",
+            "G\u00eanero": "M",
+            "Altura": "Alta",
+            "Maior Pontua\u00e7\u00e3o": true,
+            "Pontua\u00e7\u00e3o": [
+                22,
+                10,
+                17,
+                1,
+                8,
+                30,
+                22,
+                22
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 16.5
+        },
+        {
+            "Nome Completo": "DhiulyGianechinne",
+            "G\u00eanero": "F",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                0,
+                19,
+                19,
+                8,
+                6,
+                0,
+                19,
+                11
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 10.25
+        },
+        {
+            "Nome Completo": "Manoel MonteNegro",
+            "G\u00eanero": "M",
+            "Altura": "Alta",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                14,
+                18,
+                2,
+                5,
+                23,
+                2,
+                26,
+                28
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 14.75
+        },
+        {
+            "Nome Completo": "Manoel Niatierg\u00e1li",
+            "G\u00eanero": "M",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": true,
+            "Pontua\u00e7\u00e3o": [
+                30,
+                16,
+                29,
+                2,
+                15,
+                5,
+                28,
+                30
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 19.375
+        },
+        {
+            "Nome Completo": "Arnaldo Gianechinne",
+            "G\u00eanero": "M",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": true,
+            "Pontua\u00e7\u00e3o": [
+                30,
+                17,
+                4,
+                4,
+                0,
+                16,
+                24,
+                29
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 15.5
+        },
+        {
+            "Nome Completo": "DhiulyTorres",
+            "G\u00eanero": "F",
+            "Altura": "Alta",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                9,
+                26,
+                18,
+                6,
+                28,
+                17,
+                22,
+                21
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 18.375
+        },
+        {
+            "Nome Completo": "C\u00edcero Torres",
+            "G\u00eanero": "M",
+            "Altura": "Baixa",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                21,
+                22,
+                10,
+                8,
+                24,
+                28,
+                0,
+                3
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 14.5
+        },
+        {
+            "Nome Completo": "Ma\u00edraTorres",
+            "G\u00eanero": "F",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": true,
+            "Pontua\u00e7\u00e3o": [
+                29,
+                0,
+                0,
+                13,
+                17,
+                30,
+                0,
+                26
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 14.375
+        },
+        {
+            "Nome Completo": "Teresa Barroso",
+            "G\u00eanero": "F",
+            "Altura": "Alta",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                12,
+                10,
+                8,
+                19,
+                20,
+                6,
+                8,
+                29
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 14.0
+        },
+        {
+            "Nome Completo": "B\u00e1rbaraFinan\u00e7as ",
+            "G\u00eanero": "F",
+            "Altura": "Baixa",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                20,
+                28,
+                13,
+                20,
+                23,
+                9,
+                26,
+                14
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 19.125
+        },
+        {
+            "Nome Completo": "B\u00e1rbaraBarroso",
+            "G\u00eanero": "F",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                3,
+                0,
+                15,
+                14,
+                11,
+                11,
+                2,
+                0
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 7.0
+        },
+        {
+            "Nome Completo": "Michel MonteNegro",
+            "G\u00eanero": "M",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                3,
+                2,
+                19,
+                26,
+                26,
+                28,
+                17,
+                29
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 18.75
+        },
+        {
+            "Nome Completo": "B\u00e1rbaraTorres",
+            "G\u00eanero": "F",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                11,
+                21,
+                19,
+                21,
+                10,
+                12,
+                5,
+                25
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 15.5
+        },
+        {
+            "Nome Completo": "Cec\u00edliaFinan\u00e7as ",
+            "G\u00eanero": "F",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                23,
+                24,
+                5,
+                13,
+                8,
+                8,
+                7,
+                9
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 12.125
+        },
+        {
+            "Nome Completo": "Pedro Chuasn\u00e9guer",
+            "G\u00eanero": "M",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                13,
+                5,
+                27,
+                18,
+                12,
+                10,
+                21,
+                11
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 14.625
+        },
+        {
+            "Nome Completo": "Felipe MonteNegro",
+            "G\u00eanero": "M",
+            "Altura": "Baixa",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                9,
+                16,
+                8,
+                26,
+                1,
+                10,
+                22,
+                16
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 13.5
+        },
+        {
+            "Nome Completo": "Manoel Torres",
+            "G\u00eanero": "M",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                8,
+                18,
+                23,
+                11,
+                16,
+                2,
+                1,
+                9
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 11.0
+        },
+        {
+            "Nome Completo": "MillenaDiCaprio",
+            "G\u00eanero": "F",
+            "Altura": "Alta",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                26,
+                29,
+                0,
+                28,
+                20,
+                29,
+                26,
+                20
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 22.25
+        },
+        {
+            "Nome Completo": "Felipe MonteNegro",
+            "G\u00eanero": "M",
+            "Altura": "Baixa",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                29,
+                12,
+                16,
+                18,
+                7,
+                1,
+                15,
+                11
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 13.625
+        }
+    ]
+}{
+    "Pessoas": [
+        {
+            "Nome Completo": "MillenaFinan\u00e7as ",
+            "G\u00eanero": "F",
+            "Altura": "Baixa",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                18,
+                25,
+                6,
+                15,
+                29,
+                16,
+                22,
+                15
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 18.25
+        },
+        {
+            "Nome Completo": "Michel Niatierg\u00e1li",
+            "G\u00eanero": "M",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                5,
+                16,
+                12,
+                6,
+                29,
+                6,
+                21,
+                11
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 13.25
+        },
+        {
+            "Nome Completo": "Mar\u00edliaTorres",
+            "G\u00eanero": "F",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                20,
+                0,
+                18,
+                3,
+                17,
+                11,
+                16,
+                27
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 14.0
+        },
+        {
+            "Nome Completo": "Patr\u00edciaFinan\u00e7as ",
+            "G\u00eanero": "F",
+            "Altura": "Alta",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                16,
+                5,
+                3,
+                5,
+                25,
+                29,
+                24,
+                14
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 15.125
+        },
+        {
+            "Nome Completo": "B\u00e1rbaraFinan\u00e7as ",
+            "G\u00eanero": "F",
+            "Altura": "Alta",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                11,
+                5,
+                17,
+                17,
+                29,
+                20,
+                14,
+                27
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 17.5
+        },
+        {
+            "Nome Completo": "Victor Barroso",
+            "G\u00eanero": "M",
+            "Altura": "Baixa",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                26,
+                8,
+                17,
+                20,
+                2,
+                16,
+                16,
+                12
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 14.625
+        },
+        {
+            "Nome Completo": "AmandaBarroso",
+            "G\u00eanero": "F",
+            "Altura": "Baixa",
+            "Maior Pontua\u00e7\u00e3o": true,
+            "Pontua\u00e7\u00e3o": [
+                8,
+                21,
+                17,
+                3,
+                30,
+                12,
+                27,
+                12
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 16.25
+        },
+        {
+            "Nome Completo": "Victor Torres",
+            "G\u00eanero": "M",
+            "Altura": "Baixa",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                17,
+                22,
+                6,
+                26,
+                16,
+                5,
+                4,
+                22
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 14.75
+        },
+        {
+            "Nome Completo": "Joaquim MonteNegro",
+            "G\u00eanero": "M",
+            "Altura": "Baixa",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                4,
+                17,
+                11,
+                25,
+                0,
+                19,
+                5,
+                23
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 13.0
+        },
+        {
+            "Nome Completo": "DhiulyFalabella",
+            "G\u00eanero": "F",
+            "Altura": "Alta",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                2,
+                2,
+                16,
+                8,
+                2,
+                29,
+                25,
+                3
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 10.875
+        },
+        {
+            "Nome Completo": "MariaMonteNegro",
+            "G\u00eanero": "F",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": true,
+            "Pontua\u00e7\u00e3o": [
+                8,
+                30,
+                2,
+                21,
+                26,
+                14,
+                0,
+                5
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 13.25
+        },
+        {
+            "Nome Completo": "Victor DiCaprio",
+            "G\u00eanero": "M",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                21,
+                27,
+                24,
+                16,
+                11,
+                6,
+                18,
+                0
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 15.375
+        },
+        {
+            "Nome Completo": "Joaquim Barroso",
+            "G\u00eanero": "M",
+            "Altura": "Baixa",
+            "Maior Pontua\u00e7\u00e3o": true,
+            "Pontua\u00e7\u00e3o": [
+                5,
+                20,
+                9,
+                30,
+                0,
+                17,
+                27,
+                17
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 15.625
+        },
+        {
+            "Nome Completo": "Felipe Gianechinne",
+            "G\u00eanero": "M",
+            "Altura": "Alta",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                15,
+                10,
+                0,
+                15,
+                7,
+                0,
+                6,
+                21
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 9.25
+        },
+        {
+            "Nome Completo": "Manoel DiCaprio",
+            "G\u00eanero": "M",
+            "Altura": "Baixa",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                27,
+                7,
+                26,
+                29,
+                25,
+                20,
+                14,
+                20
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 21.0
+        },
+        {
+            "Nome Completo": "GiuliaGianechinne",
+            "G\u00eanero": "F",
+            "Altura": "Baixa",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                29,
+                16,
+                16,
+                11,
+                21,
+                15,
+                3,
+                19
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 16.25
+        },
+        {
+            "Nome Completo": "Pedro Torres",
+            "G\u00eanero": "M",
+            "Altura": "Alta",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                7,
+                18,
+                17,
+                9,
+                4,
+                22,
+                11,
+                22
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 13.75
+        },
+        {
+            "Nome Completo": "Ronaldo Torres",
+            "G\u00eanero": "M",
+            "Altura": "Alta",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                26,
+                14,
+                11,
+                20,
+                4,
+                7,
+                28,
+                21
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 16.375
+        },
+        {
+            "Nome Completo": "Joaquim Chuasn\u00e9guer",
+            "G\u00eanero": "M",
+            "Altura": "Alta",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                6,
+                28,
+                7,
+                29,
+                19,
+                10,
+                26,
+                21
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 18.25
+        },
+        {
+            "Nome Completo": "Ma\u00edraNiatierg\u00e1li",
+            "G\u00eanero": "F",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                5,
+                15,
+                9,
+                19,
+                23,
+                24,
+                29,
+                24
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 18.5
+        },
+        {
+            "Nome Completo": "Pedro Gianechinne",
+            "G\u00eanero": "M",
+            "Altura": "Alta",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                18,
+                21,
+                2,
+                25,
+                5,
+                21,
+                22,
+                11
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 15.625
+        },
+        {
+            "Nome Completo": "Teresa Finan\u00e7as ",
+            "G\u00eanero": "F",
+            "Altura": "Baixa",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                7,
+                3,
+                10,
+                23,
+                21,
+                1,
+                29,
+                2
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 12.0
+        },
+        {
+            "Nome Completo": "Patr\u00edciaDiCaprio",
+            "G\u00eanero": "F",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                28,
+                17,
+                10,
+                9,
+                19,
+                25,
+                8,
+                12
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 16.0
+        },
+        {
+            "Nome Completo": "Patr\u00edciaDiCaprio",
+            "G\u00eanero": "F",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                9,
+                8,
+                15,
+                28,
+                28,
+                26,
+                3,
+                1
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 14.75
+        },
+        {
+            "Nome Completo": "Arnaldo Torres",
+            "G\u00eanero": "M",
+            "Altura": "Alta",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                7,
+                8,
+                18,
+                25,
+                13,
+                28,
+                7,
+                5
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 13.875
+        },
+        {
+            "Nome Completo": "Guilherme Barroso",
+            "G\u00eanero": "M",
+            "Altura": "Baixa",
+            "Maior Pontua\u00e7\u00e3o": true,
+            "Pontua\u00e7\u00e3o": [
+                30,
+                6,
+                4,
+                26,
+                5,
+                22,
+                7,
+                13
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 14.125
+        },
+        {
+            "Nome Completo": "Manoel Barroso",
+            "G\u00eanero": "M",
+            "Altura": "Alta",
+            "Maior Pontua\u00e7\u00e3o": true,
+            "Pontua\u00e7\u00e3o": [
+                6,
+                21,
+                6,
+                21,
+                13,
+                30,
+                5,
+                12
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 14.25
+        },
+        {
+            "Nome Completo": "Joaquim Falabella",
+            "G\u00eanero": "M",
+            "Altura": "Alta",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                27,
+                4,
+                2,
+                4,
+                23,
+                28,
+                23,
+                29
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 17.5
+        },
+        {
+            "Nome Completo": "Ronaldo Finan\u00e7as ",
+            "G\u00eanero": "M",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": true,
+            "Pontua\u00e7\u00e3o": [
+                21,
+                20,
+                23,
+                26,
+                9,
+                15,
+                1,
+                30
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 18.125
+        },
+        {
+            "Nome Completo": "Manoel Falabella",
+            "G\u00eanero": "M",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": true,
+            "Pontua\u00e7\u00e3o": [
+                30,
+                10,
+                20,
+                16,
+                0,
+                1,
+                9,
+                25
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 13.875
+        },
+        {
+            "Nome Completo": "Ma\u00edraFalabella",
+            "G\u00eanero": "F",
+            "Altura": "Alta",
+            "Maior Pontua\u00e7\u00e3o": true,
+            "Pontua\u00e7\u00e3o": [
+                16,
+                30,
+                18,
+                16,
+                9,
+                14,
+                7,
+                4
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 14.25
+        },
+        {
+            "Nome Completo": "MillenaNiatierg\u00e1li",
+            "G\u00eanero": "F",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                1,
+                14,
+                24,
+                3,
+                24,
+                29,
+                23,
+                25
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 17.875
+        },
+        {
+            "Nome Completo": "AmandaBarroso",
+            "G\u00eanero": "F",
+            "Altura": "Alta",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                4,
+                7,
+                8,
+                18,
+                6,
+                13,
+                15,
+                26
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 12.125
+        },
+        {
+            "Nome Completo": "B\u00e1rbaraMonteNegro",
+            "G\u00eanero": "F",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                29,
+                18,
+                24,
+                0,
+                13,
+                22,
+                18,
+                3
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 15.875
+        },
+        {
+            "Nome Completo": "Patr\u00edciaGianechinne",
+            "G\u00eanero": "F",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                29,
+                10,
+                0,
+                9,
+                2,
+                2,
+                5,
+                4
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 7.625
+        },
+        {
+            "Nome Completo": "Teresa Gianechinne",
+            "G\u00eanero": "F",
+            "Altura": "Alta",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                7,
+                21,
+                3,
+                21,
+                7,
+                4,
+                5,
+                12
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 10.0
+        },
+        {
+            "Nome Completo": "Mar\u00edliaTorres",
+            "G\u00eanero": "F",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                9,
+                22,
+                18,
+                8,
+                24,
+                8,
+                16,
+                12
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 14.625
+        },
+        {
+            "Nome Completo": "Felipe Falabella",
+            "G\u00eanero": "M",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                9,
+                20,
+                4,
+                10,
+                13,
+                17,
+                16,
+                26
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 14.375
+        },
+        {
+            "Nome Completo": "Teresa DiCaprio",
+            "G\u00eanero": "F",
+            "Altura": "Alta",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                11,
+                12,
+                14,
+                9,
+                8,
+                21,
+                16,
+                15
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 13.25
+        },
+        {
+            "Nome Completo": "AmandaGianechinne",
+            "G\u00eanero": "F",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                21,
+                3,
+                16,
+                26,
+                8,
+                25,
+                4,
+                19
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 15.25
+        },
+        {
+            "Nome Completo": "Victor DiCaprio",
+            "G\u00eanero": "M",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": true,
+            "Pontua\u00e7\u00e3o": [
+                30,
+                1,
+                0,
+                27,
+                5,
+                0,
+                19,
+                0
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 10.25
+        },
+        {
+            "Nome Completo": "Pedro Barroso",
+            "G\u00eanero": "M",
+            "Altura": "Baixa",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                19,
+                18,
+                16,
+                12,
+                7,
+                2,
+                6,
+                13
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 11.625
+        },
+        {
+            "Nome Completo": "Ant\u00f4nio Gianechinne",
+            "G\u00eanero": "M",
+            "Altura": "Baixa",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                12,
+                11,
+                2,
+                16,
+                19,
+                27,
+                28,
+                8
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 15.375
+        },
+        {
+            "Nome Completo": "Mar\u00edliaDiCaprio",
+            "G\u00eanero": "F",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                15,
+                16,
+                29,
+                0,
+                0,
+                9,
+                22,
+                1
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 11.5
+        },
+        {
+            "Nome Completo": "Arnaldo Falabella",
+            "G\u00eanero": "M",
+            "Altura": "Alta",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                24,
+                15,
+                9,
+                8,
+                11,
+                13,
+                9,
+                24
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 14.125
+        },
+        {
+            "Nome Completo": "AmandaDiCaprio",
+            "G\u00eanero": "F",
+            "Altura": "Alta",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                29,
+                21,
+                25,
+                4,
+                5,
+                16,
+                9,
+                26
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 16.875
+        },
+        {
+            "Nome Completo": "Joaquim Finan\u00e7as ",
+            "G\u00eanero": "M",
+            "Altura": "Baixa",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                4,
+                26,
+                13,
+                20,
+                21,
+                18,
+                2,
+                19
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 15.375
+        },
+        {
+            "Nome Completo": "MillenaFinan\u00e7as ",
+            "G\u00eanero": "F",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                29,
+                20,
+                0,
+                0,
+                7,
+                22,
+                25,
+                8
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 13.875
+        },
+        {
+            "Nome Completo": "Guilherme Falabella",
+            "G\u00eanero": "M",
+            "Altura": "Baixa",
+            "Maior Pontua\u00e7\u00e3o": true,
+            "Pontua\u00e7\u00e3o": [
+                7,
+                30,
+                3,
+                21,
+                13,
+                23,
+                22,
+                3
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 15.25
+        },
+        {
+            "Nome Completo": "Guilherme Finan\u00e7as ",
+            "G\u00eanero": "M",
+            "Altura": "Baixa",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                24,
+                12,
+                29,
+                4,
+                25,
+                23,
+                27,
+                2
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 18.25
+        },
+        {
+            "Nome Completo": "Cec\u00edliaTorres",
+            "G\u00eanero": "F",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                20,
+                29,
+                13,
+                5,
+                19,
+                9,
+                11,
+                10
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 14.5
+        },
+        {
+            "Nome Completo": "Ant\u00f4nio Falabella",
+            "G\u00eanero": "M",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                15,
+                17,
+                9,
+                28,
+                3,
+                13,
+                3,
+                8
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 12.0
+        },
+        {
+            "Nome Completo": "Cec\u00edliaChuasn\u00e9guer",
+            "G\u00eanero": "F",
+            "Altura": "Alta",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                9,
+                20,
+                7,
+                17,
+                14,
+                2,
+                15,
+                24
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 13.5
+        },
+        {
+            "Nome Completo": "Felipe DiCaprio",
+            "G\u00eanero": "M",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                19,
+                16,
+                6,
+                1,
+                11,
+                25,
+                1,
+                21
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 12.5
+        },
+        {
+            "Nome Completo": "Michel Finan\u00e7as ",
+            "G\u00eanero": "M",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                29,
+                8,
+                22,
+                0,
+                23,
+                20,
+                24,
+                24
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 18.75
+        },
+        {
+            "Nome Completo": "Teresa DiCaprio",
+            "G\u00eanero": "F",
+            "Altura": "Baixa",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                2,
+                2,
+                21,
+                17,
+                14,
+                21,
+                23,
+                0
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 12.5
+        },
+        {
+            "Nome Completo": "Victor Torres",
+            "G\u00eanero": "M",
+            "Altura": "Baixa",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                16,
+                19,
+                25,
+                28,
+                8,
+                11,
+                27,
+                4
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 17.25
+        },
+        {
+            "Nome Completo": "C\u00edcero Gianechinne",
+            "G\u00eanero": "M",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                20,
+                26,
+                1,
+                8,
+                15,
+                19,
+                12,
+                0
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 12.625
+        },
+        {
+            "Nome Completo": "Guilherme Torres",
+            "G\u00eanero": "M",
+            "Altura": "Alta",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                6,
+                5,
+                17,
+                16,
+                8,
+                10,
+                13,
+                15
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 11.25
+        },
+        {
+            "Nome Completo": "Ma\u00edraFalabella",
+            "G\u00eanero": "F",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                19,
+                8,
+                21,
+                8,
+                15,
+                13,
+                10,
+                16
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 13.75
+        },
+        {
+            "Nome Completo": "Arnaldo Chuasn\u00e9guer",
+            "G\u00eanero": "M",
+            "Altura": "Alta",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                16,
+                29,
+                7,
+                6,
+                28,
+                19,
+                27,
+                24
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 19.5
+        },
+        {
+            "Nome Completo": "Arnaldo Torres",
+            "G\u00eanero": "M",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                29,
+                27,
+                16,
+                15,
+                10,
+                29,
+                22,
+                25
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 21.625
+        },
+        {
+            "Nome Completo": "DhiulyChuasn\u00e9guer",
+            "G\u00eanero": "F",
+            "Altura": "Alta",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                0,
+                5,
+                2,
+                8,
+                5,
+                28,
+                19,
+                1
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 8.5
+        },
+        {
+            "Nome Completo": "GiuliaBarroso",
+            "G\u00eanero": "F",
+            "Altura": "Alta",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                18,
+                25,
+                26,
+                2,
+                15,
+                20,
+                3,
+                19
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 16.0
+        },
+        {
+            "Nome Completo": "GiuliaNiatierg\u00e1li",
+            "G\u00eanero": "F",
+            "Altura": "Alta",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                22,
+                13,
+                28,
+                27,
+                23,
+                7,
+                10,
+                10
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 17.5
+        },
+        {
+            "Nome Completo": "Pedro Barroso",
+            "G\u00eanero": "M",
+            "Altura": "Alta",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                12,
+                7,
+                18,
+                5,
+                2,
+                16,
+                23,
+                16
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 12.375
+        },
+        {
+            "Nome Completo": "B\u00e1rbaraMonteNegro",
+            "G\u00eanero": "F",
+            "Altura": "Baixa",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                29,
+                25,
+                22,
+                5,
+                0,
+                26,
+                4,
+                29
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 17.5
+        },
+        {
+            "Nome Completo": "C\u00edcero DiCaprio",
+            "G\u00eanero": "M",
+            "Altura": "Alta",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                13,
+                21,
+                4,
+                1,
+                14,
+                19,
+                3,
+                19
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 11.75
+        },
+        {
+            "Nome Completo": "Ma\u00edraChuasn\u00e9guer",
+            "G\u00eanero": "F",
+            "Altura": "Alta",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                13,
+                8,
+                12,
+                23,
+                15,
+                6,
+                8,
+                17
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 12.75
+        },
+        {
+            "Nome Completo": "Ronaldo Niatierg\u00e1li",
+            "G\u00eanero": "M",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": true,
+            "Pontua\u00e7\u00e3o": [
+                23,
+                18,
+                5,
+                30,
+                28,
+                3,
+                11,
+                18
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 17.0
+        },
+        {
+            "Nome Completo": "Patr\u00edciaDiCaprio",
+            "G\u00eanero": "F",
+            "Altura": "Alta",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                6,
+                7,
+                1,
+                4,
+                0,
+                3,
+                15,
+                12
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 6.0
+        },
+        {
+            "Nome Completo": "Ronaldo MonteNegro",
+            "G\u00eanero": "M",
+            "Altura": "Alta",
+            "Maior Pontua\u00e7\u00e3o": true,
+            "Pontua\u00e7\u00e3o": [
+                22,
+                10,
+                17,
+                1,
+                8,
+                30,
+                22,
+                22
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 16.5
+        },
+        {
+            "Nome Completo": "DhiulyGianechinne",
+            "G\u00eanero": "F",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                0,
+                19,
+                19,
+                8,
+                6,
+                0,
+                19,
+                11
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 10.25
+        },
+        {
+            "Nome Completo": "Manoel MonteNegro",
+            "G\u00eanero": "M",
+            "Altura": "Alta",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                14,
+                18,
+                2,
+                5,
+                23,
+                2,
+                26,
+                28
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 14.75
+        },
+        {
+            "Nome Completo": "Manoel Niatierg\u00e1li",
+            "G\u00eanero": "M",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": true,
+            "Pontua\u00e7\u00e3o": [
+                30,
+                16,
+                29,
+                2,
+                15,
+                5,
+                28,
+                30
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 19.375
+        },
+        {
+            "Nome Completo": "Arnaldo Gianechinne",
+            "G\u00eanero": "M",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": true,
+            "Pontua\u00e7\u00e3o": [
+                30,
+                17,
+                4,
+                4,
+                0,
+                16,
+                24,
+                29
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 15.5
+        },
+        {
+            "Nome Completo": "DhiulyTorres",
+            "G\u00eanero": "F",
+            "Altura": "Alta",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                9,
+                26,
+                18,
+                6,
+                28,
+                17,
+                22,
+                21
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 18.375
+        },
+        {
+            "Nome Completo": "C\u00edcero Torres",
+            "G\u00eanero": "M",
+            "Altura": "Baixa",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                21,
+                22,
+                10,
+                8,
+                24,
+                28,
+                0,
+                3
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 14.5
+        },
+        {
+            "Nome Completo": "Ma\u00edraTorres",
+            "G\u00eanero": "F",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": true,
+            "Pontua\u00e7\u00e3o": [
+                29,
+                0,
+                0,
+                13,
+                17,
+                30,
+                0,
+                26
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 14.375
+        },
+        {
+            "Nome Completo": "Teresa Barroso",
+            "G\u00eanero": "F",
+            "Altura": "Alta",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                12,
+                10,
+                8,
+                19,
+                20,
+                6,
+                8,
+                29
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 14.0
+        },
+        {
+            "Nome Completo": "B\u00e1rbaraFinan\u00e7as ",
+            "G\u00eanero": "F",
+            "Altura": "Baixa",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                20,
+                28,
+                13,
+                20,
+                23,
+                9,
+                26,
+                14
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 19.125
+        },
+        {
+            "Nome Completo": "B\u00e1rbaraBarroso",
+            "G\u00eanero": "F",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                3,
+                0,
+                15,
+                14,
+                11,
+                11,
+                2,
+                0
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 7.0
+        },
+        {
+            "Nome Completo": "Michel MonteNegro",
+            "G\u00eanero": "M",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                3,
+                2,
+                19,
+                26,
+                26,
+                28,
+                17,
+                29
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 18.75
+        },
+        {
+            "Nome Completo": "B\u00e1rbaraTorres",
+            "G\u00eanero": "F",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                11,
+                21,
+                19,
+                21,
+                10,
+                12,
+                5,
+                25
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 15.5
+        },
+        {
+            "Nome Completo": "Cec\u00edliaFinan\u00e7as ",
+            "G\u00eanero": "F",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                23,
+                24,
+                5,
+                13,
+                8,
+                8,
+                7,
+                9
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 12.125
+        },
+        {
+            "Nome Completo": "Pedro Chuasn\u00e9guer",
+            "G\u00eanero": "M",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                13,
+                5,
+                27,
+                18,
+                12,
+                10,
+                21,
+                11
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 14.625
+        },
+        {
+            "Nome Completo": "Felipe MonteNegro",
+            "G\u00eanero": "M",
+            "Altura": "Baixa",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                9,
+                16,
+                8,
+                26,
+                1,
+                10,
+                22,
+                16
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 13.5
+        },
+        {
+            "Nome Completo": "Manoel Torres",
+            "G\u00eanero": "M",
+            "Altura": "M\u00e9dia",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                8,
+                18,
+                23,
+                11,
+                16,
+                2,
+                1,
+                9
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 11.0
+        },
+        {
+            "Nome Completo": "MillenaDiCaprio",
+            "G\u00eanero": "F",
+            "Altura": "Alta",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                26,
+                29,
+                0,
+                28,
+                20,
+                29,
+                26,
+                20
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 22.25
+        },
+        {
+            "Nome Completo": "Felipe MonteNegro",
+            "G\u00eanero": "M",
+            "Altura": "Baixa",
+            "Maior Pontua\u00e7\u00e3o": false,
+            "Pontua\u00e7\u00e3o": [
+                29,
+                12,
+                16,
+                18,
+                7,
+                1,
+                15,
+                11
+            ],
+            "M\u00e9dia da Pontua\u00e7\u00e3o": 13.625
+        }
+    ]
+}
